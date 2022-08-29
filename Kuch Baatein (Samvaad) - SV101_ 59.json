@@ -1,0 +1,409 @@
+{
+    "course": {
+        "id": "59",
+        "name": "Kuch Baatein (Samvaad) - SV101",
+        "logo": "https://bit.ly/2PzSPkJ",
+        "notes": null,
+        "days_to_complete": "30",
+        "short_description": "Let's start talking in English with the help of these very simple topics",
+        "type": "html",
+        "course_type": null,
+        "lang_available": [
+            "en"
+        ],
+        "exercises": [
+            {
+                "id": "4486",
+                "parent_exercise_id": null,
+                "course_id": "59",
+                "name": "How to Use",
+                "slug": "samvaad-beginner__1-howtouse_md",
+                "sequence_num": 0,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/1-howtouse.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "How to Use\n\nIs course me kuch aise topics hain jinhe discuss karke aap English conversation ki practice kar sakte hain. Ye topics aapki normal life se related hain and isme use ki gai vocabulary kafi common hai. Jab aap is course ko start karenge, toh aap apne conversation partner ke sath in topics par lagbhag 30 minutes tak baat karein. Ye aapki English ki fluency improve karne me helpful rahega. Agar inme se koi topic ke baare mein aapke paas enough information nahi hai, toh pehle hi thoda extra time lekar thoda padh lein aur fir conversation karein.\n\n\n\nDhyan rakhein, English mein professional conversation karne ke liye ye zaruri hai ki aap fluent ho aur apni day-to-day topics par baat karne mein comfor`tab`le hon. In cheezon ke baare me baat karna shayad apko interesting na lage, par yahan fluency build karna important hai.\n\n\n\nEnjoy!\n\n\n\nSome important tips to help you learn better:\n\n* Maintain a diary with all the new words that you learn\n\n* Revise your vocabulary diary everyday\n\n* Share your vocabulary lists with your friends and revise together\n\n* Listen to `YouTube` videos where they are having conversation about these topics\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4487",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Topics",
+                "slug": "samvaad-beginner__Cards/inspiration_md",
+                "sequence_num": 100,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/inspiration.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Inspiration in Life\n\n* Who is your biggest inspiration in life?\n\n* What do you admire about them?\n\n* What qualities of theirs do you want to adopt?\n\n\n\n---\n\nVocabulary\n\n1. Review - \u0906\u0932\u094b\u091a\u0928\u093e\n\n2. Critics - \u0906\u0932\u094b\u091a\u0915\n\n3. Industrious - \u092e\u0947\u0939\u0928\u0924\u0940\n\n4. Activity - \u0917\u0924\u093f\u0935\u093f\u0927\u093f\n\n5. Admire - \u092a\u094d\u0930\u0936\u0902\u0938\u093e \u0915\u0930\u0928\u093e\n\n8. Success - \u0938\u092b\u0932\u0924\u093e\n\n9. Community - \u0938\u092e\u0941\u0926\u093e\u092f\n\n10. Management skills - \u092a\u094d\u0930\u092c\u0902\u0927\u0928 \u0915\u094c\u0936\u0932\n\n11. Communication skills - \u0938\u0902\u091a\u093e\u0930 \u0915\u094c\u0936\u0932\n\n12. Immediate - \u0924\u0941\u0930\u0902\u0924\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4488",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "navgurukul-problems",
+                "slug": "samvaad-beginner__Cards/navgurukul-problems_md",
+                "sequence_num": 101,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/navgurukul-problems.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "NavGurukul - Problems\n\n* What are three biggest problems faced by NavGurukul today?\n\n* What steps can be taken to solve these problems?\n\n\n\n---\n\nVocabulary\n\n1. Spend: \u092c\u093f\u0924\u093e\u0928\u093e\n\n2. Pursuing: \u092a\u0940\u091b\u093e \u0915\u0930\u0928\u093e\n\n3. Effort: \u092a\u094d\u0930\u092f\u093e\u0938 \u0939\u0948\n\n4. Care - \u0927\u094d\u092f\u093e\u0928\n\n5. Responsibility - \u091c\u093c\u093f\u092e\u094d\u092e\u0947\u0926\u093e\u0930\u0940\n\n6. Concentration - \u090f\u0915\u093e\u0917\u094d\u0930\u0924\u093e\n\n7. Coyly -\u0936\u0930\u094d\u092e\u0940\u0932\u0947\n\n8. Stack -\u0922\u0947\u0930\n\n9. Knots -\u0938\u092e\u0941\u0926\u094d\u0930\u0940 \u092e\u0940\u0932\u092c\u0941\u0930\u094d\u091c\n\n10. Turrest -\u092c\u0941\u0930\u094d\u091c\n\n11. Pity -\u0926\u092f\u093e\n\n12. Praise -\u092a\u094d\u0930\u0936\u0902\u0938\u093e\n\n13. Sharp -\u0924\u0947\u091c\u093c\n\n14. Exhibition -\u092a\u094d\u0930\u0926\u0930\u094d\u0936\u0928\u0940\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4489",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Hobbies",
+                "slug": "samvaad-beginner__Cards/hobbies_md",
+                "sequence_num": 102,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/hobbies.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Hobbies\n\n* What are some of your hobbies?\n\n* How often do you spend time in pursuing a hobby?\n\n* What were your hobbies as a child?\n\n\n\nIs topic ke baare me kaise baat karte hain, ye jaanne ke liye neeche diye gae videos dekh sakte ho!\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "Wcjx6xReC7U"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "oADRAv9zmRA"
+                    }
+                ]
+            },
+            {
+                "id": "4490",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Family",
+                "slug": "samvaad-beginner__Cards/family_md",
+                "sequence_num": 103,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/family.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Family\n\n* Who all are there in your family?\n\n* Who are the closest people to you in your family?\n\n* Where does your family live?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "R49zGknt7EE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "2S9Q_hrpS3I"
+                    }
+                ]
+            },
+            {
+                "id": "4491",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Dream Job",
+                "slug": "samvaad-beginner__Cards/dream-job_md",
+                "sequence_num": 104,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/dream-job.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Dream Job\n\n* What would be your dream job be like?\n\n* Where would it be?\n\n* Describe about what be your role, what people you would want to work with, and any other things that you imagine about your dream job.\n\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "fcKniJHVQ3w"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "L7GXRiKejZU"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "nCDxYGMzeRw"
+                    }
+                ]
+            },
+            {
+                "id": "4492",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Friends",
+                "slug": "samvaad-beginner__Cards/friends_md",
+                "sequence_num": 105,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/friends.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Friends\n\n* Who are your closest friends?\n\n* How and when did you meet them?\n\n* What are your favourite memories together?\n\n* What activities do you like to do together?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "wGMcDgsMx_4"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "GJ0mAzJ9yTw"
+                    }
+                ]
+            },
+            {
+                "id": "4493",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Seasons",
+                "slug": "samvaad-beginner__Cards/seasons_md",
+                "sequence_num": 106,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/seasons.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Seasons\n\n* Which is your favourite season?\n\n* What do you like about this season?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "1x1HndNAh88"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "FodOPGbxJb8"
+                    }
+                ]
+            },
+            {
+                "id": "4494",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "name:Festival",
+                "slug": "samvaad-beginner__Cards/festival_md",
+                "sequence_num": 107,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/festival.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Festival\n\n* Which are the popular festivals celebrated in your state?\n\n* What preparations are done for the festival?\n\n* What do people do in the festival?\n\n* What is special about the festival?\n\n\n\n(You can talk about multiple festivals too.)\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "hDPt6koZ9ks"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "vv2jgdeRFCE"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "ds9DWTBKg0c"
+                    },
+                    {
+                        "type": "markdown",
+                        "value": "Vocabulary\n\n* Victory - \u0935\u093f\u091c\u092f\n\n* Disappoint - \u0928\u093f\u0930\u093e\u0936\n\n* Bounties - \u0907\u0928\u093e\u092e\n\n* Bestowing - \u0915\u0928\u094d\u092f\u093e\u0926\u093e\u0928\n\n* Dedicate- \u0938\u092e\u0930\u094d\u092a\u093f\u0924 \u0915\u0930\u0928\u093e\n\n* Evil \u2013 \u092c\u0941\u0930\u093e\u0908\n\n* Numerous \u2013  \u092c\u0939\u0941\u0924\n\n* Enormous - \u0935\u093f\u0936\u093e\u0932 \n\n* Decoratin -\u0938\u091c\u093e\u0935\u091f\n\n* Religious Spirits - \u0927\u093e\u0930\u094d\u092e\u093f\u0915 \u0906\u0938\u094d\u0925\u093e\n\n* Celebration - \u0909\u0924\u094d\u0938\u0935\n\n* Happiness - \u0916\u093c\u0941\u0936\u0940\n\n* Burst -\u092b\u094b\u0921\u093c\u0928\u0947\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4495",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Problems",
+                "slug": "samvaad-beginner__Cards/problems_md",
+                "sequence_num": 108,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/problems.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Problems\n\n* What problems do you come across in your work or life?\n\n* Do you feel that problems are opportunities. Why or why not?\n\n* What was the last problem you solved and how did you do it?\n\n* \u201cProblems don\u2019t matter. Solutions do.\u201d Do you agree or disagree?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4502",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "NavGurukul - Journey",
+                "slug": "samvaad-beginner__Cards/navgurukul-journey_md",
+                "sequence_num": 109,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/navgurukul-journey.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "NavGurukul - Journey\n\n* How much time have you spent in NavGurukul?\n\n* How has your learning journey been?\n\n* What has been your biggest learning besides programming?\n\n* What were your most difficult times in NavGurukul?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4496",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Dream Holiday",
+                "slug": "samvaad-beginner__Cards/dream-holiday_md",
+                "sequence_num": 110,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/dream-holiday.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Dream Holiday\n\n* Which is your dream holiday place?\n\n* Why did you choose this place?\n\n* What are the major tourist attractions in this place?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4497",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Sports",
+                "slug": "samvaad-beginner__Cards/sports_md",
+                "sequence_num": 111,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/sports.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Sports\n\n* Do you like sports? Why/why not?\n\n* Did you play any sports as a child?\n\n* Which is your favourite sport?\n\n* Who is your favourite sportsperson?\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "8yCr0OwPO_U"
+                    }
+                ]
+            },
+            {
+                "id": "4498",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Movies",
+                "slug": "samvaad-beginner__Cards/movies_md",
+                "sequence_num": 112,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/movies.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Movies\n\n* Which was the last movie you watched?\n\n* What kind of movies do you like to watch?\n\n* Which is your favourite movie?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4499",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Childhood Memory",
+                "slug": "samvaad-beginner__Cards/childhood-memory_md",
+                "sequence_num": 113,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/childhood-memory.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Childhood Memory\n\n* Who did you live with when you were growing up?\n\n* What did you want to be when you were a child?\n\n* Who was your childhood hero?\n\n* Which is your favourite childhood memory?\n\n\n\nIs topic ke baare me kaise baat karte hain, ye jaanne ke liye neeche diye gae videos dekh sakte ho!\n\n\n\n"
+                    },
+                    {
+                        "type": "youtube",
+                        "value": "StKVZsPCojY"
+                    }
+                ]
+            },
+            {
+                "id": "4500",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Hometown",
+                "slug": "samvaad-beginner__Cards/hometown_md",
+                "sequence_num": 114,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/hometown.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Hometown\n\n* Where is your hometown?\n\n* What is it known for? What do people do there?\n\n* How is the atmosphere there?\n\n* How are the people there?\n\n* Is it easy to find a job there?\n\n* Would you like to live in your hometown or somewhere else?\n\n\n\n\n\n---\n* Rural - \u0917\u094d\u0930\u093e\u092e\u0940\u0923\n\n* Warmth - \u0917\u0930\u094d\u092e\u0940\n\n* Trouble - \u092e\u0941\u0938\u0940\u092c\u0924\n\n* Cultivating - \u0916\u0947\u0924\u0940\n\n* Spread - \u092b\u0948\u0932\u093e\u0928\u093e\n\n* Pesticides - \u0915\u0940\u091f\u0928\u093e\u0936\u0915\n\n* Roam - \u0907\u0927\u0930-\u0909\u0927\u0930 \u092d\u091f\u0915\u0928\u093e\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4501",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Politics",
+                "slug": "samvaad-beginner__Cards/politics_md",
+                "sequence_num": 115,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/politics.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Politics\n\n* Who is your favourite politician?\n\n* Why do you like them?\n\n* What have they done for the people?\n\n"
+                    }
+                ]
+            },
+            {
+                "id": "4503",
+                "parent_exercise_id": "4487",
+                "course_id": "59",
+                "name": "Exams",
+                "slug": "samvaad-beginner__Cards/exams_md",
+                "sequence_num": 116,
+                "review_type": "manual",
+                "submission_type": null,
+                "github_link": "https://github.com/navgurukul/newton/tree/master/samvaad-beginner/Cards/exams.md",
+                "solution": null,
+                "content": [
+                    {
+                        "type": "markdown",
+                        "value": "Exams\n\n* Do you think exams are a good way to assess learning?\n\n* How was your experience with exams?\n\n* What can be better alternatives to exams?\n\n"
+                    }
+                ]
+            }
+        ]
+    }
+}
